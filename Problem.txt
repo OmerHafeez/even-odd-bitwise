@@ -1,0 +1,2 @@
+Check whether a number is even or odd WITHOUT using loops, arithmetic operators,
+and comparison operators.
